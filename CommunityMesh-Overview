@@ -1,3 +1,5 @@
+Overview:
+
 Hardware Setup: Install ESP32 microcontrollers equipped with Wi-Fi or LoRa modules at strategic locations throughout the neighborhood, ensuring adequate coverage for communication. These microcontrollers will form the nodes of the mesh network.
 Solar Power: Power each ESP32 node with solar panels and rechargeable batteries to ensure continuous operation even during power outages. Position the solar panels to receive maximum sunlight exposure throughout the day, and use energy-efficient components to optimize power consumption.
 Mesh Networking Software: Configure the ESP32 nodes to communicate with each other using mesh networking protocols such as ESP-MESH or Zigbee. This allows the nodes to dynamically route data packets through the network, enabling robust and decentralized communication without relying on centralized infrastructure.
