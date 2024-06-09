@@ -2,6 +2,8 @@
 
 ###SilenceGeneric:##
 
+** I'm not done with the speech. I don't like how I kind of repeat myself, especially towards the end, plus other minor adjustments. maybe a little bit less wordy. haven't decided yet everything all of this is in its beginning stages. This is just the beginning of my idea
+
 Hello, everyone.
 
 Today, we stand at a crossroads—a moment in time where the challenges we face seem insurmountable, and the road ahead appears uncertain. But in the face of adversity, there lies an opportunity—an opportunity to redefine what is possible, to reimagine our future, and to forge a path towards a better world.
