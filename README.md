@@ -1,3 +1,5 @@
+##$This is eventually going to be the information hub for various of my repositories one's linked to this ideology. these are my contribution projects that could be beneficial to society. Also I will have other documents and letters and speeches and information eventually. Any of my projects related to my vision eventually will be in this repository.$##
+
 ###SilenceGeneric:##
 
 Hello, everyone.
@@ -6,7 +8,7 @@ Today, we stand at a crossroads—a moment in time where the challenges we face 
 
 As we look around us, it's clear that our world is in crisis. From climate disasters to social injustices, from pandemics to economic instability, the threats we face are real and pressing.
 
-But amidst this turmoil, there lies an opportunity—a chance for us to come together, to support one another, and to create positive change. That's why I'm excited to talk to you today about a project that's near and dear to my heart—a project that embodies the spirit of community, resilience, and empowerment.
+But amidst this turmoil, there lies an opportunity—a chance for us to come together, to support one another, and to create positive change. That's why I want to talk to you today about a project that's near and dear to my heart. A project that embodies the spirit of community, resilience, and empowerment.
 
 It's called CommunityMesh and at its core, it's about harnessing the power of the sun to connect us, to empower us, and to keep us safe in times of need.
 
